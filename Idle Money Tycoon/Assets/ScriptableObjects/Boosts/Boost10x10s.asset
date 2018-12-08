@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7f48a69dd8d4746bb1639ee6cbd85a, type: 3}
+  m_Name: Boost10x10s
+  m_EditorClassIdentifier: 
+  Duration: 10
+  Factor: 10
+  Costs: 3000
+  Icon: {fileID: 21300000, guid: 326cd88712a532c4198d90ef083102bf, type: 3}
